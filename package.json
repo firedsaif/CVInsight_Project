@@ -1,0 +1,21 @@
+{
+  "name": "CVInsight_Project",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/firedsaif/CVInsight_Project.git",
+  "author": "mubariz <mubarizharoonmulpk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1"
+  }
+}
+LLM Response:
+ **Score: 72/100**
+ 
+ 
+*Why*: Demonstrates blockchain/technical project experience but lacks clarity, quantifiable achievements, and structure (e.g., role titles, dates, bullet points).  
+
+**Feedback**: Strong foundational skills (Rust, APIs, blockchain) and leadership via Lab Demonstrator role. Revise formatting for readability (use professional headings/bullets), add metrics (e.g., "optimized SDK to reduce processing time by 30%"), clarify work duration to align with "5 years of experience" metric, and streamline project descriptions to focus on backend/backend-adjacent tasks.
